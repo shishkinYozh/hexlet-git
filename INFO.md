@@ -1,4 +1,5 @@
 a tak?
 git is awesome!
-new line
-experiment with amend
+hexlet is awesome too!
+nu?
+git is awesome
